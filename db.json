@@ -4,7 +4,7 @@
       "id": 3,
       "text": "Train chest",
       "day": "Feb 5th",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Test",
